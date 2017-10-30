@@ -16,14 +16,14 @@ The club has 4 chapters active currently
 #### General Secretary
 
 
-<img src='/img/abhishek.jpg'  width="200">
+<img src='/img/sourav.jpg'  width="200">
 
 
 #### Treasurer
 
 
 
-<img src='/img/sourav.jpg'  width="200">
+<img src='/img/abhishek.jpg'  width="200">
 
 
 
